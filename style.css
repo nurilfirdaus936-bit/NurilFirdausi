@@ -1,7 +1,7 @@
 body {
-  background-color: black; /*VIOLET*/ 
+  background-color: #ff8080;
   font-family: Arial;
-  color: white; /*Merah menyala*/
+  color: #a6a6a6;
   text-align: center;
 }
 
@@ -9,7 +9,7 @@ body {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
-  background-color: white;
+  background-color: #aaff00;
   border-radius: 15px;
   box-shadow: 0 40px 8px rgba(0,0,0,1);
   text-align: center;
