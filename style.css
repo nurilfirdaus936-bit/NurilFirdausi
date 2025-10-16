@@ -1,1 +1,15 @@
+body {
+  background-color: #7F00FF; /*VIOLET*/ 
+  font-family: Arial;
+  color: #cc0000; /*Merah menyala*/
+  text-align: center;
+}
 
+.kartu-profil {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: purple;
+  border-radius: 15px;
+  box-shadow: 0 40px 8px rgba(0,0,0,1);
+}
