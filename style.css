@@ -19,3 +19,18 @@ body {
   width: 150px;
   border-radius: 50%;
 }
+
+.kartu-kartu {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #aaff00;
+  border-radius: 15px;
+  box-shadow: 0 40px 8px rgba(0,0,0,1);
+  text-align: center;
+}
+
+.kartu-kartu img {
+  width: 150px;
+  border-radius: 50%;
+}
